@@ -1,0 +1,5 @@
+## Interface: 44615
+## Title: Pillar Core
+## Notes: Main mod that is required for all other pillar mods
+## Author: Supernova Cluster
+## Version: 0.1
