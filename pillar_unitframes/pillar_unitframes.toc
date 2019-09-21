@@ -1,0 +1,8 @@
+## Interface: 44615
+## Title: Pillar Unit Frames
+## Notes: Main mod that is required for all other pillar mods
+## Author: Supernova Cluster
+## Version: 0.1
+## DefaultState: Enabled
+## SavedVariables: Pillar_UnitFramesOptions
+## Dependencies: Pillar_Core
