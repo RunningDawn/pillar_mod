@@ -1,0 +1,9 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\..\FrameXML\UI.xsd">   
+<Script File="pillar_notes.lua"/>
+<Frame name="Pillar_Notes" parent="UIParent">
+    <Scripts>
+        <OnLoad function="Pillar_Notes_OnLoad"></OnLoad>
+        <OnEvent function="Pillar_Notes_OnEvent"></OnEvent>
+    </Scripts>
+</Frame>
+</Ui>
