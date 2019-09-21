@@ -1,6 +1,22 @@
 <Ui xmlns="http://www.blizzard.com/wow/ui/"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
-   <Frame name="Pillar Note">
+   <Frame name="Pillar_Notes_Frame">
+   </Frame>
+   <Frame name="Pillar_Notes_Notes_Frame">
+     <Size><AbsDimension x="100" y="100"/></Size>
+      <Anchors>
+       <Anchor point="TOPLEFT" relativeTo="Pillar_Notes_Frame">
+        <Offset><AbsDimension x="10" y="-10"/></Offset>
+       </Anchor>
+      </Anchors>
+   </Frame>
+   <Frame name="Pillar_Notes_Note_Frame">
+      <Size><AbsDimension x="100" y="100"/></Size>
+      <Anchors>
+      <Anchor point="TOPRIGHT" relativeTo="Pillar_Notes_Frame">
+      <Offset><AbsDimension x="10" y="-10"/></Offset>
+      </Anchor>
+     </Anchors>
    </Frame>
 </Ui>
