@@ -9,3 +9,4 @@
 
 pillar_notes.xml
 pillar_notes.lua
+note_gui.xml
